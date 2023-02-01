@@ -1,0 +1,10 @@
+[webserver]
+
+3.9.146.245
+13.42.38.181
+18.170.51.208
+
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
+ansible_user=ubuntu
